@@ -1,6 +1,6 @@
 
 
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Benjamin Romero</h1>
+<h1>Hi, I'm Benjamin Romero</h1>
 
 <h3>A passionate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
